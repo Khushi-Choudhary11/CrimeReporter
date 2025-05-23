@@ -1,130 +1,130 @@
-🕵️‍♂️ CrimeDetector
+## 🕵️‍♂️ CrimeDetector
 CrimeDetector is a modern web-based platform for reporting, managing, and analyzing crime data. It enables seamless communication between citizens and authorities while offering features like real-time chat, geographic visualization, and automated text classification of reports.
 
-🚀 Features
+### 🚀 Features
 
 
-📝 Crime Reporting: Submit detailed reports through an intuitive form.
+* 📝 Crime Reporting: Submit detailed reports through an intuitive form.
 
 
-💬 Real-Time Chat: Two-way communication between users and law enforcement.
+* 💬 Real-Time Chat: Two-way communication between users and law enforcement.
 
 
-🧠 ML-Based Text Analysis: Automatically categorizes and prioritizes reports using a machine learning model.
+* 🧠 ML-Based Text Analysis: Automatically categorizes and prioritizes reports using a machine learning model.
 
 
-🗺️ Map Visualization: Displays crime locations on an interactive map to identify hotspots.
+* 🗺️ Map Visualization: Displays crime locations on an interactive map to identify hotspots.
 
 
-🔐 Role-Based Access:
+### 🔐 Role-Based Access:
 
 
-Admin Dashboard: Manages users, authorities, and case distribution.
+- Admin Dashboard: Manages users, authorities, and case distribution.
 
 
-Authority Panel: Views assigned cases and communicates with citizens.
+- Authority Panel: Views assigned cases and communicates with citizens.
 
 
-User Portal: Files new complaints and tracks existing ones.
+- User Portal: Files new complaints and tracks existing ones.
 
 
 
 
 
-🔄 Application Flow
+### 🔄 Application Flow
 
 
-Authentication: Role-based login system for users, authorities, and admins.
+- Authentication: Role-based login system for users, authorities, and admins.
 
 
-Crime Submission: Users report incidents, which are analyzed using ML for categorization.
+- Crime Submission: Users report incidents, which are analyzed using ML for categorization.
 
 
-Case Assignment: Admins assign cases to relevant authorities based on report type and location.
+- Case Assignment: Admins assign cases to relevant authorities based on report type and location.
 
 
-Communication: A built-in chat system connects users with assigned officers.
+- Communication: A built-in chat system connects users with assigned officers.
 
 
-Visualization: Admins and authorities can view incidents on a live map to understand spatial patterns.
+- Visualization: Admins and authorities can view incidents on a live map to understand spatial patterns.
 
 
 
-🧰 Tech Stack
-Backend
+### 🧰 Tech Stack
+#### Backend
 
 
-Python (Flask)
+- Python (Flask)
 
 
-SQLAlchemy ORM
+- SQLAlchemy ORM
 
 
-Machine Learning (Text classification via text_analyzer.py)
+- Machine Learning (Text classification via text_analyzer.py)
 
 
-Socket.IO for real-time communication
+- Socket.IO for real-time communication
 
 
-Frontend
+#### Frontend
 
 
-React.js
+- React.js
 
 
-Tailwind CSS for modern and responsive styling
+- Tailwind CSS for modern and responsive styling
 
 
-React Icons for enhanced UI/UX
+- React Icons for enhanced UI/UX
 
 
-Map Libraries (e.g., Leaflet or Google Maps for crime plotting)
+- Map Libraries (e.g., Leaflet or Google Maps for crime plotting)
 
 
-Database
+#### Database
 
 
-Relational DB (e.g., PostgreSQL or MySQL)
+- Relational DB SQLite(e.g., PostgreSQL or MySQL)
 
 
 
-📁 Project Structure Highlights
+### 📁 Project Structure Highlights
 
 
-backend/app.py: Entry point of the Flask application
+- backend/app.py: Entry point of the Flask application
 
 
-backend/api/: Route definitions for different modules (auth, crimes, chat, etc.)
+- backend/api/: Route definitions for different modules (auth, crimes, chat, etc.)
 
 
-backend/models/: ORM-based database models
+- backend/models/: ORM-based database models
 
 
-backend/ml/text_analyzer.py: ML model integration for crime classification
+- backend/ml/text_analyzer.py: ML model integration for crime classification
 
 
-frontend/: React-based client application (UI components, pages, assets)
+- frontend/: React-based client application (UI components, pages, assets)
 
 
 
-📌 Future Improvements
+### 📌 Future Improvements
 
 
-Push notifications for case updates
+- Push notifications for case updates
 
 
-Voice-to-text for quick reporting
+- Voice-to-text for quick reporting
 
 
-Multilingual support
+- Multilingual support
 
 
-Advanced crime analytics dashboard
+- Advanced crime analytics dashboard
 
 
 
-🧑‍💻 Contributing
+#### 🧑‍💻 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-📜 License
+#### 📜 License
 This project is licensed under the MIT License.

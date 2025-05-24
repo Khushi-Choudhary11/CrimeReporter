@@ -63,7 +63,7 @@ CrimeDetector is a modern web-based platform for reporting, managing, and analyz
 - Machine Learning (Text classification via text_analyzer.py)
 
 
-- Socket.IO for real-time communication
+
 
 
 #### Frontend
@@ -120,6 +120,7 @@ CrimeDetector is a modern web-based platform for reporting, managing, and analyz
 
 
 - Advanced crime analytics dashboard
+- Socket.IO for real-time communication
 
 
 
@@ -128,3 +129,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 #### 📜 License
 This project is licensed under the MIT License.
+
+
+[ (1 - \phi_1 B - \phi_2 B3)(1 - B) y_t = (1 + \theta_1 B) \epsilon_t ] 

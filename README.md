@@ -131,4 +131,4 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 This project is licensed under the MIT License.
 
 
-[ (1 - \phi_1 B - \phi_2 B3)(1 - B) y_t = (1 + \theta_1 B) \epsilon_t ] 
+

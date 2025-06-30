@@ -1,5 +1,5 @@
-## 🕵️‍♂️ CrimeDetector
-CrimeDetector is a modern web-based platform for reporting, managing, and analyzing crime data. It enables seamless communication between citizens and authorities while offering features like real-time chat, geographic visualization, and automated text classification of reports.
+## 🕵️‍♂️ CrimeReporter
+CrimeReporter is a modern web-based platform for reporting, managing, and analyzing crime data. It enables seamless communication between citizens and authorities while offering features like real-time chat, geographic visualization, and automated text classification of reports.
 
 ### 🚀 Features
 

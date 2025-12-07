@@ -13,16 +13,7 @@ def create_app():
     app.config.from_object(Config)
     
     # Configure CORS to allow requests from the React frontend with credentials
-    CORS(app, 
-        resources={
-            r"/*": {
-                "origins": "http://localhost:3000",
-                "supports_credentials": True,
-                "methods": ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
-                "allow_headers": ["Authorization", "Content-Type"]
-            }
-        }
-    )
+    CORS(app,  supports_credentials=True)
 
     # Error handler for exceptions
     @app.errorhandler(Exception)

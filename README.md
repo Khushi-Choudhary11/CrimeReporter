@@ -1,22 +1,22 @@
-## 🕵️‍♂️ CrimeReporter
+##  CrimeReporter
 CrimeReporter is a modern web-based platform for reporting, managing, and analyzing crime data. It enables seamless communication between citizens and authorities while offering features like real-time chat, geographic visualization, and automated text classification of reports.
 
-### 🚀 Features
+###  Features
 
 
-* 📝 Crime Reporting: Submit detailed reports through an intuitive form.
+*  Crime Reporting: Submit detailed reports through an intuitive form.
 
 
-* 💬 Real-Time Chat: Two-way communication between users and law enforcement.
+*  Real-Time Chat: Two-way communication between users and law enforcement.
 
 
-* 🧠 ML-Based Text Analysis: Automatically categorizes and prioritizes reports using a machine learning model.
+*  ML-Based Text Analysis: Automatically categorizes and prioritizes reports using a machine learning model.
 
 
-* 🗺️ Map Visualization: Displays crime locations on an interactive map to identify hotspots.
+*  Map Visualization: Displays crime locations on an interactive map to identify hotspots.
 
 
-### 🔐 Role-Based Access:
+###  Role-Based Access:
 
 
 - Admin Dashboard: Manages users, authorities, and case distribution.
@@ -31,7 +31,7 @@ CrimeReporter is a modern web-based platform for reporting, managing, and analyz
 
 
 
-### 🔄 Application Flow
+###  Application Flow
 
 
 - Authentication: Role-based login system for users, authorities, and admins.
@@ -50,7 +50,7 @@ CrimeReporter is a modern web-based platform for reporting, managing, and analyz
 
 
 
-### 🧰 Tech Stack
+###  Tech Stack
 #### Backend
 
 
@@ -88,7 +88,7 @@ CrimeReporter is a modern web-based platform for reporting, managing, and analyz
 
 
 
-### 📁 Project Structure Highlights
+###  Project Structure Highlights
 
 
 - backend/app.py: Entry point of the Flask application
@@ -107,7 +107,7 @@ CrimeReporter is a modern web-based platform for reporting, managing, and analyz
 
 
 
-### 📌 Future Improvements
+###  Future Improvements
 
 
 - Push notifications for case updates
@@ -124,10 +124,10 @@ CrimeReporter is a modern web-based platform for reporting, managing, and analyz
 
 
 
-#### 🧑‍💻 Contributing
+####  Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-#### 📜 License
+####  License
 This project is licensed under the MIT License.
 
 
